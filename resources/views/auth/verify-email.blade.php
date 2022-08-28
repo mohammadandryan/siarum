@@ -37,7 +37,6 @@
             <form action="{{ route('verification.send') }}" method="post">
                 <button type="submit" class="btn btn-success">Kirim Ulang</button>
             </form>
-            <a href="{{ route('verification.send') }}" class="btn btn-success">Kirim Ulang</a>
         </div>
 
     </div>
